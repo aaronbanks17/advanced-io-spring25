@@ -1,4 +1,4 @@
-# Avanced IO Homeowork
+# Avanced IO Homework
 
 Homework assignments from 14.273 - Advanced Topics in Industrial Organization
 
@@ -7,7 +7,7 @@ The following provides the steps to get the code and data setup on your local ma
 
 1) Clone the repository to a private directory (not shared on dropbox)
 ```bash
-mkdir merger-private
+mkdir advanced-io
 git clone git@github.com:aaronbanks17/advanced-io-spring25.git ./advanced-io/code
 ```
 2) Symlink the `data` directory from the shared Dropbox folder to the top level of the repository
